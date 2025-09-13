@@ -1,0 +1,4 @@
+Pentru o imagine de ansamblu asupra paradigmei de calcul funcțional în Kotlin, se
+recomandă parcurgerea următoarelor resurse:
+„Functional Kotlin“ - Mario Arias și Rivu Chakraborty
+Cursul 12 de la disciplina Paradigme de programare
