@@ -1,0 +1,10 @@
+
+Start-Date: 2025-04-01  18:36:40
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libjavascriptcoregtk-4.1-0:amd64 (2.46.6-0ubuntu0.24.04.1, 2.48.0-0ubuntu0.24.04.1), gir1.2-javascriptcoregtk-4.1:amd64 (2.46.6-0ubuntu0.24.04.1, 2.48.0-0ubuntu0.24.04.1), gir1.2-javascriptcoregtk-6.0:amd64 (2.46.6-0ubuntu0.24.04.1, 2.48.0-0ubuntu0.24.04.1), gir1.2-webkit2-4.1:amd64 (2.46.6-0ubuntu0.24.04.1, 2.48.0-0ubuntu0.24.04.1), libjavascriptcoregtk-6.0-1:amd64 (2.46.6-0ubuntu0.24.04.1, 2.48.0-0ubuntu0.24.04.1), libwebkit2gtk-4.1-0:amd64 (2.46.6-0ubuntu0.24.04.1, 2.48.0-0ubuntu0.24.04.1), gir1.2-webkit-6.0:amd64 (2.46.6-0ubuntu0.24.04.1, 2.48.0-0ubuntu0.24.04.1), libwebkitgtk-6.0-4:amd64 (2.46.6-0ubuntu0.24.04.1, 2.48.0-0ubuntu0.24.04.1)
+End-Date: 2025-04-01  18:36:42
+
+Start-Date: 2025-04-01  18:36:44
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: linux-tools-common:amd64 (6.8.0-56.58, 6.8.0-57.59), linux-libc-dev:amd64 (6.8.0-56.58, 6.8.0-57.59)
+End-Date: 2025-04-01  18:36:45
