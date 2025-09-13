@@ -1,0 +1,7 @@
+Title : First Note
+Author : Me
+Create Date : 2025-03-18T01:32:40.283288820
+	 Content
+ Să se proiecteze (diagrama UML de clase) și să se implementeze respectând principiile
+SOLID, o aplicație de notițe. Acestea pot fi salvate pe disk în fișiere individuale. Printr-un
+meniu de tip CLI, aplicația va permite la pornirea acesteia
